@@ -1,0 +1,1 @@
+/Users/ihyeongjin/Documents/workspace/ihyeongjin/rust_learn/variables_type_plus/literal_operator/target/debug/literal_operator: /Users/ihyeongjin/Documents/workspace/ihyeongjin/rust_learn/variables_type_plus/literal_operator/src/main.rs
